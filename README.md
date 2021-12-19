@@ -16,3 +16,4 @@ https://dubletab.github.io/reactDevices/  - Демо дашборда.
 Зеленый - устройство работает штатно.
 
 Проект находится в закрытом контуре, поэтому подключаю локально библиотеку React и Babel.
+https://github.com/dubletab/devices - проект на VanillaJS + статичная структура
